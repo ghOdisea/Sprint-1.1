@@ -27,3 +27,13 @@ npm run build
 
 Transpila el proyecto en dist/
 (En caso de transpilación chequear de poner los ".js" en los import antes de correr programa. De caso contrario da error de módulo.)
+
+
+
+Para el frontEnd
+
+// npm create vite@latest nombredeldirectorio
+
+Para el CLI
+
+// modulo Readline
