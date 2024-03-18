@@ -36,4 +36,18 @@ Para el frontEnd
 
 Para el CLI
 
-// modulo Readline
+//Uso de modulo Readline
+
+```sh
+node cmd/app.js
+```
+Inicia el To Do list con las siguientes opciones:
+
+ add / remove / check / viewAll
+
+ add - Agrega una tarea a una lista existente
+ remove - Elimina la ultima tarea de la lista 
+ check - Marca la primera tarea como completada (true)
+ viewAll - Muestra el listado con todas las tareas
+
+Para salir del programa: CTRL + C
